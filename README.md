@@ -1,4 +1,4 @@
-# Transactions 2 API
+# Transactions 2 API: Need to do myself
 
 ## Node + Express + MongoDB + Models + Controllers + Routes + Heroku
 
